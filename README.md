@@ -18,10 +18,11 @@ This is a dummy website project showcasing a fictional automotive company. It in
    ```
 2. Open the project folder in your preferred code editor.
 
-## Usage
+## Usage/links it contains
 1. Open the `index.html` file in your web browser to view the dummy website.
 2. Explore the different sections of the website, including the navigation bar, image carousel, and featured car models.
 3. Click on links and buttons to navigate through the website.
+4. clink on aboutus in project to got my portfolio.
 
 ## Technologies Used
 - HTML
